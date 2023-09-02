@@ -22,7 +22,7 @@
    Writing a programming code using C/C++ :
 
  # 1. * <ins> task 1.1 *Hello Gru* </ins>:wave:
-    &ensp;&ensp;&ensp;Just write a C program that prints the string ‘GRU’ in the output terminal (console) (Hello World problem). 
+  &ensp;&ensp;&ensp;Just write a C program that prints the string ‘GRU’ in the output terminal (console) (Hello World problem). 
 
 output:
    ```GRU```
